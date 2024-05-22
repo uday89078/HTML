@@ -1,0 +1,44 @@
+*Website*
+--------> website is one tipe of colection of data.
+
+*www*
+-------->world wide web
+
+*HTTP/HTTPS*
+--------> HTTP stands for HyperText Transfer Protocol. 
+          HTTPS stands for Hyper Text Transfer Protocol Secure. 
+
+ *clint server*
+ --------> client is a computer or program that is used to request data from a server.
+
+ *domain*
+ --------> domain is a name that is used to identify a website.
+
+ *host*
+ --------> host is a computer or server that is used to store data and provide services to clients.
+
+ *hosting*
+ -------->Web hosting is an online service that makes your website’s content accessible on the internet.
+
+ *FTP*
+ -------->FTP server address or computer that provides access for transferring files using the File Transfer Protocol.
+
+ *path*
+ -------->A path is a way formed by people or animals, a narrow track, or a route that something takes. 
+
+ *Extention*
+ --------> A file extension is a set of characters added to the end of a filename.
+
+ *Editor/vscode*
+ -------->Visual Studio Code is a code editor. Like many other code editors, VS Code adopts a common user interface and layout of
+         an explorer on the left, showing all of the files and folders you have access to, and an editor on the right, showing the 
+         content of the files you have opened.
+
+*URL/URN*
+-------->URL stands for Uniform Resource Locator. URN stands for Uniform Resource Name.
+
+*address bar*
+-------->address bar is a text field that is used to enter a URL or domain name.
+
+*title bar*
+-------->The title bar is a horizontal bar located at the top of a window in a GUI (graphical user interface). 
